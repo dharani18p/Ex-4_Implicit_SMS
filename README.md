@@ -1,4 +1,3 @@
-![367644231-45ddf316-3077-4f3f-85cb-8786ad1a2823](https://github.com/user-attachments/assets/6c71727e-9f4d-4b3f-9af9-6ab51cf47dc4)
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 
