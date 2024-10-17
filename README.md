@@ -1,4 +1,4 @@
-
+![367644231-45ddf316-3077-4f3f-85cb-8786ad1a2823](https://github.com/user-attachments/assets/6c71727e-9f4d-4b3f-9af9-6ab51cf47dc4)
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 
@@ -93,11 +93,11 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-![Screenshot 2024-09-30 160327](https://github.com/user-attachments/assets/889c5560-8714-4b7e-bb6c-d4dc6709a7bf)
 
-![Screenshot 2024-09-30 160941](https://github.com/user-attachments/assets/b7853721-1e6d-4fc8-87dc-222c0adcf8c0)
+![367644231-45ddf316-3077-4f3f-85cb-8786ad1a2823](https://github.com/user-attachments/assets/249e4391-d468-4afa-86f4-6950a02efe24)
 
 
+![367644248-aea6e8db-e427-4795-861d-f776db95003a](https://github.com/user-attachments/assets/aa77b0a7-dfae-4bbe-bd76-f3691d33a8ce)
 
 
 ## RESULT
